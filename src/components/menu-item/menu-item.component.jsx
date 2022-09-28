@@ -10,6 +10,6 @@ const MenuItem = ({title, imgUrl, size}) => (
       </div>
     </div>
 
-);
+); 
 
 export default MenuItem;
